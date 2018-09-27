@@ -74,6 +74,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="..\..\UsageEnvironment\include\Boolean.hh" />
+    <None Include="..\..\UsageEnvironment\include\HashTable.hh" />
+    <None Include="..\..\UsageEnvironment\include\strDup.hh" />
+    <None Include="..\..\UsageEnvironment\include\UsageEnvironment.hh" />
+    <None Include="..\..\UsageEnvironment\include\UsageEnvironment_version.hh" />
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>

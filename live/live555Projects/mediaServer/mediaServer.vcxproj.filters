@@ -23,7 +23,11 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\mediaServer\DynamicRTSPServer.hh" />
-    <None Include="..\..\mediaServer\version.hh" />
+    <None Include="..\..\mediaServer\version.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\mediaServer\DynamicRTSPServer.hh">
+      <Filter>Header Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

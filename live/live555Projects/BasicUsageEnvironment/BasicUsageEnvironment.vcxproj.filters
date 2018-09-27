@@ -16,6 +16,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
+    <None Include="..\..\BasicUsageEnvironment\include\HandlerSet.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\BasicUsageEnvironment\include\BasicHashTable.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\BasicUsageEnvironment\include\BasicUsageEnvironment.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\BasicUsageEnvironment\include\BasicUsageEnvironment0.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\BasicUsageEnvironment\include\BasicUsageEnvironment_version.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\BasicUsageEnvironment\include\DelayQueue.hh">
+      <Filter>Header Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\BasicUsageEnvironment\BasicHashTable.cpp">

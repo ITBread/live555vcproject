@@ -16,6 +16,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
+    <None Include="..\..\UsageEnvironment\include\Boolean.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\UsageEnvironment\include\HashTable.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\UsageEnvironment\include\strDup.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\UsageEnvironment\include\UsageEnvironment.hh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="..\..\UsageEnvironment\include\UsageEnvironment_version.hh">
+      <Filter>Header Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\UsageEnvironment\HashTable.cpp">

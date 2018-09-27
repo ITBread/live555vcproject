@@ -74,6 +74,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="..\..\BasicUsageEnvironment\include\BasicHashTable.hh" />
+    <None Include="..\..\BasicUsageEnvironment\include\BasicUsageEnvironment.hh" />
+    <None Include="..\..\BasicUsageEnvironment\include\BasicUsageEnvironment0.hh" />
+    <None Include="..\..\BasicUsageEnvironment\include\BasicUsageEnvironment_version.hh" />
+    <None Include="..\..\BasicUsageEnvironment\include\DelayQueue.hh" />
+    <None Include="..\..\BasicUsageEnvironment\include\HandlerSet.hh" />
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>

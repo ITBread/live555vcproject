@@ -74,6 +74,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="..\..\groupsock\include\GroupEId.hh" />
+    <None Include="..\..\groupsock\include\Groupsock.hh" />
+    <None Include="..\..\groupsock\include\GroupsockHelper.hh" />
+    <None Include="..\..\groupsock\include\groupsock_version.hh" />
+    <None Include="..\..\groupsock\include\IOHandlers.hh" />
+    <None Include="..\..\groupsock\include\NetAddress.hh" />
+    <None Include="..\..\groupsock\include\NetInterface.hh" />
+    <None Include="..\..\groupsock\include\TunnelEncaps.hh" />
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
@@ -84,6 +92,9 @@
     <ClCompile Include="..\..\groupsock\IOHandlers.cpp" />
     <ClCompile Include="..\..\groupsock\NetAddress.cpp" />
     <ClCompile Include="..\..\groupsock\NetInterface.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\groupsock\include\NetCommon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
